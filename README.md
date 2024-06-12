@@ -26,7 +26,7 @@
 - Uni-ControlNet [Github NeurIPS2023](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)  
 [Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2468f84a13ff8bb6767a67518fb596eb-Abstract-Conference.html)
 
-- PnP-diffusion-features [CVPR2023](https://pnp-diffusion.github.io/)
+- PnP-diffusion-features [CVPR2023](https://pnp-diffusion.github.io/)  
 [Plug-and-play diffusion features for text-driven image-to-image translation](https://openaccess.thecvf.com/content/CVPR2023/html/Tumanyan_Plug-and-Play_Diffusion_Features_for_Text-Driven_Image-to-Image_Translation_CVPR_2023_paper.html)
 
 - Diffusion Models综述 ACM Journals    
